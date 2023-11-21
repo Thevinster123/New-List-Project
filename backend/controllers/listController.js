@@ -1,4 +1,4 @@
-const Lists = require('./models/listModel')
+const Lists = require('../models/listModel')
 const mongoose = require('mongoose')
 
 // get all lists 
